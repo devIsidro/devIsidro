@@ -1,4 +1,4 @@
-Hola, Soy Jorge
+# Hola, Soy Jorge
 
 🎓 Estudiante de Ingeniería en Desarrollo de Software
 
