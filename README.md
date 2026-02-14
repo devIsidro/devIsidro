@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Jorge 👋
 
-<!--
-**devIsidro/devIsidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Desarrollo de Software  
+💻 Interesado en desarrollo web moderno  
+🚀 Aprendiendo React y Backend
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- MySQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos
+- Web para ONG (React)
+- Aplicación Fullstack (en progreso)
+
+## 📫 Contacto
+Email: ji.aleman.dev@outlook.com
+
