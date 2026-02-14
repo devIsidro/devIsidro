@@ -1,1 +1,1 @@
-# Hola, soy Jorge 👋  
+# Hola, Soy Jorge
