@@ -26,4 +26,4 @@
 ## 📫 Contacto
 Email: ji.aleman.dev@outlook.com  
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleman-jorge/)
+LinkedIn: https://www.linkedin.com/in/aleman-jorge/
